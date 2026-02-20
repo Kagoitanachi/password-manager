@@ -1,1 +1,1 @@
-# password-manager
+In this project I use TK-inter to create a password generator which will generate a random password for your accounts and save it as a .txt file , so you can have them saved and never need to remember them.
